@@ -73,8 +73,3 @@ class ViewController: UIViewController {
         lblResult.text = ("\(result)")
     }
 }
-
-    
-
-
-
