@@ -300,6 +300,7 @@
 				555B0E7B1E064C2900F24AC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
